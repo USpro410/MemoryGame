@@ -77,7 +77,7 @@ const cardArray = [
     },
     {
       name: 'July',
-      img: 'images/July.png'
+      img: 'images/july.png'
     },
     {
       name: 'August',
